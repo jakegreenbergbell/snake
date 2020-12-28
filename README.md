@@ -1,5 +1,7 @@
 # Snake Game
 
+https://jakegreenbergbell.github.io/snake/
+
 My take on the classic snake game. Utilized jQuery, HTML Canvas, Bootstrap styling, along with vanilla JavaScript.
 
 Built with interesting features: 
